@@ -19,7 +19,7 @@ __Задачи:__
 5. Реализовать проект и вывести продукт в эксплуатацию.
 6. Сделать выводы.
 
-__Инструменты:__ LeanCanvas, Scrum-framework, Jira, Kanban?
+__Инструменты:__ LeanCanvas, ganttpro.com, Scrum-framework, Jira, Kanban?
 
 ## ОГЛАВЛЕНИЕ
 
